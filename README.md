@@ -9,6 +9,4 @@ Welcome to my GitHub profile! I'm a researcher/Searcher looking to work at the i
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've bungee jumped over the zambezi river three times.
 
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najmeh)
 -->
