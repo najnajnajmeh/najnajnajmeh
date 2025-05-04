@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Najmeh
 
-Welcome to my GitHub profile! I bring over 15 years of expertise in global health and international development, specializing in managing programs and research for major health initiatives. I am looking to work at the intersections of health, climate, and data. 
+Welcome to my GitHub profile! I bring over 15 years of expertise in public health and international development, specializing in managing programs and research for major health and data initiatives. I am looking to work at the intersections of health, climate, and data. 
 
 ## 🌍 About Me
 - 😄 Pronouns: she/her
